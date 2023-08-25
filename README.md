@@ -9,7 +9,7 @@ My name is Marina!
 Портфолио: аналитик данных
 
 Обо мне 
-![285c1087542c2900af6df09ebfae13af](https://github.com/mapus2/mapus2/assets/143173024/241012cd-930b-4ecc-939d-881831390bf6)
+![1551015968](https://github.com/mapus2/mapus2/assets/143173024/d62e1000-b3e0-4d2d-bcfd-18763c24ffce)
 
 Привет! Меня зовут Пастухова Марина, я начинающий аналитик данных. 
 
