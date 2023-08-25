@@ -6,9 +6,10 @@ My name is Marina!
 - 👯 I’m looking to collaborate on technology companies
 - 📫 How to reach me: +79277777915, EMAIL: mapus@yandex.ru
 
-Портфолио: ##аналитик данных
+Портфолио: аналитик данных
 
-Обо мне https://webstockreview.net/images/girl-clipart-laptop-3.png 
+Обо мне 
+![285c1087542c2900af6df09ebfae13af](https://github.com/mapus2/mapus2/assets/143173024/241012cd-930b-4ecc-939d-881831390bf6)
 
 Привет! Меня зовут Пастухова Марина, я начинающий аналитик данных. 
 
