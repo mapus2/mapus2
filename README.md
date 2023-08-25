@@ -6,7 +6,7 @@ My name is Marina!
 - 👯 I’m looking to collaborate on technology companies
 - 📫 How to reach me: +79277777915, EMAIL: mapus@yandex.ru
 
-Портфолио: аналитик данных
+Портфолио: ##аналитик данных
 
 Обо мне https://webstockreview.net/images/girl-clipart-laptop-3.png 
 
