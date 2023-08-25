@@ -12,7 +12,9 @@ My name is Marina!
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 Навыки и технологии
-Инструменты анализа данных: SQL, Excel:
+Инструменты анализа данных: SQL, Excel ![Sql_database_shortcut_icon](https://github.com/mapus2/mapus2/assets/143173024/60417115-84f4-4708-9414-ae147d697359) ![Microsoft_Office_Excel_(2019–present) svg](https://github.com/mapus2/mapus2/assets/143173024/122a4cc0-9522-4882-bf81-5b81615da865)
+
+
 Системы управления базами данных: MySQL, PostgreSQL
 
 Проекты
